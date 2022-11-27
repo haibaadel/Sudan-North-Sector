@@ -1,0 +1,40 @@
+[INFO]
+N019.09.41.400
+E031.08.46.800
+60
+56.7
+3.7
+HSSS_North;HSSS_North\SID;HSSS_North\STAR
+
+[NDB]
+F;NDB\hsssn.ndb
+
+[VOR]
+F;VOR\hsssn.vor
+
+[FIXES]
+F;FIX\hsssn.fix
+
+[AIRPORT]
+F;AIRPORTS\hsssn.apt
+
+[RUNWAY]
+F;RUNWAYS\hsssn.rwy
+
+[LOW AIRWAY]
+F;LOW AIRWAY\hsssn.lairway
+
+[HIGH AIRWAY]
+F;HIGH AIRWAY\hsssn.hairway
+
+[AIRSPACE]
+F;ARTCC\hsnorth.artcc
+
+[GEO]
+F;GEO\HSMN\hsmn.geo
+
+[FILLCOLOR]
+F;AIRPORTS\HSMN\hsmn.fcl
+
+
+

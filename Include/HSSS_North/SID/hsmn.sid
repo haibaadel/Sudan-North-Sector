@@ -1,0 +1,24 @@
+// Runway 02 SIDs
+HSMN;02;GERA1A;MN600;MN600;
+MN600;MN600;
+GERAS;GERAS;
+//**************************
+HSMN;02;ROTA1A;MN600;MN600;
+MN600;MN600;
+MN601;MN601;
+ROTAP;ROTAP;
+//**************************
+HSMN;02;KURT1A;MN600;MN600;
+MN600;MN600;
+KURTI;KURTI;
+//**************************
+HSMN;02;SOLE1A;MN600;MN600;
+MN600;MN600;
+SOLEV;SOLEV;
+//**************************
+HSMN;02;ORKA1A;MN600;MN600;
+MN600;MN600;
+ORKAL;ORKAL;
+//**************************
+
+

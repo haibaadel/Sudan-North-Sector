@@ -18,6 +18,9 @@ F;FIX\hsssn.fix
 [AIRPORT]
 F;AIRPORTS\hsssn.apt
 
+[ATC]
+F;ATC\hsssn.atc 
+
 [RUNWAY]
 F;RUNWAYS\hsssn.rwy
 

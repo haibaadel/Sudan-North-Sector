@@ -1,0 +1,18 @@
+// Khartoum Airport (HSSK)
+HSSK_TWR;119.200;HSSK_APP HSSS_N_CTR
+HSSK_APP;124.700;HSSK_TWR HSSS_N_CTR
+//*****************************************
+// Merowe Airport (HSMN)
+HSMN_TWR;118.400;HSSS_N_CTR
+HSMN_APP;118.400;HSSS_N_CTR
+//*****************************************
+// Portsudan Airport (HSPN)
+HSPN_TWR;128.100;HSSS_N_CTR
+HSPN_APP;128.100;HSSS_N_CTR
+//*****************************************
+// Dongola Airport (HSDN)
+HSDN_TWR;118.200;HSSS_N_CTR
+//*****************************************
+// Atbar Airport (HSAT)
+HSAT_I_TWR;118.500;HSSS_N_CTR
+HSAT_TWR;118.500;HSSS_N_CTR

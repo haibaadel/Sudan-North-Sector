@@ -1,3 +1,7 @@
+// KHAARTOUM NORTH ACC
+HSSS_N_CTR;125.400;HSSK_APP HSPN_APP HSMN_APP
+//*****************************************
+// AIRPORTS
 // Khartoum Airport (HSSK)
 HSSK_TWR;119.200;HSSK_APP HSSS_N_CTR
 HSSK_APP;124.700;HSSK_TWR HSSS_N_CTR
@@ -16,3 +20,17 @@ HSDN_TWR;118.200;HSSS_N_CTR
 // Atbar Airport (HSAT)
 HSAT_I_TWR;118.500;HSSS_N_CTR
 HSAT_TWR;118.500;HSSS_N_CTR
+//*****************************************
+// El-Debba Airport
+HSDB_I_TWR;120.900;HSSS_N_CTR
+//*****************************************
+// Kassala Airport
+HSKA_TWR;118.200;HSSS_N_CTR
+//*****************************************
+// New Halfa Airport
+HSNW_I_TWR;128.100;HSSS_N_CTR
+//*****************************************
+// Wadi Halfa Airport
+HSSW_I_TWR;120.900;HSSS_N_CTR
+HSSW_TWR;120.900;HSSS_N_CTR
+//*****************************************
